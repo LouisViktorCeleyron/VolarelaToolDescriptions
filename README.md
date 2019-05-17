@@ -1,8 +1,8 @@
 # VolarelaToolDescriptions
 HI !
-Here you can find description of the tools I made for "Les Chroniques de Volarela" in 2018
+Here you can find a description of the tools I made for "Les Chroniques de Volarela" in 2018
 
-You can find informations about this project on my website or on this website : https://www.volarela.com/ (french only)
+You can find information about this project on my website or on this website : https://www.volarela.com/ (French only)
 
 I worked on Unity 2018.3 with c#.
 
